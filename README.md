@@ -5,7 +5,7 @@ ______
 
 ##### I love building AI-enabled software solutions for a wide range of problems.
 
-I'm Currently working at [Faethm.ai](https://www.faethm.ai/) where I'm building a system to show real-time skill demands for any job.
+I'm currently working at [Faethm.ai](https://www.faethm.ai/) where we're building a system to show real-time skill demands for any job.
 
 👨‍💻 Work Experience so far:
 - Machine Learning Engineer @ Faethm AI
