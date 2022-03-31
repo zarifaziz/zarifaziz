@@ -13,14 +13,12 @@ I'm Currently working at [Faethm.ai](https://www.faethm.ai/) where I'm building 
 - Research Intern @ Nearmap
 - Data Analyst Intern @ Deloitte
 
-To know more about me and my projects, check out my website!
+😄 Top Skills: PYTHON / TENSORFLOW / PYTORCH / LINUX / SQL
+______
+
+To know more about me and my projects, please check out my website!
 
 📫 [zarifaziz.io](zarifaziz.io)
-
-______
-😄 Skills: PYTHON / TENSORFLOW / PYTORCH / LINUX / SQL
-
-
 
 
 
