@@ -13,7 +13,7 @@ I'm Currently working at [Faethm.ai](https://www.faethm.ai/) where I'm building 
 - Research Intern @ Nearmap
 - Data Analyst Intern @ Deloitte
 
-😄 Top Skills: PYTHON / NLP / COMPUTER VISION / DATA WRANGLING / LINUX
+😄 Top Skills: Python / NLP / Computer Vision / Data Wrangling / Bash
 ______
 
 To know more about me and my projects, please check out my website!
