@@ -11,7 +11,7 @@ I'm Currently working at [Faethm.ai](https://www.faethm.ai/) where I'm building 
 - Machine Learning Engineer @ Faethm AI
 - Data Science Engineer @ Abyss Solutions
 - Research Intern @ Nearmap
-- Data Analyst Intenr @ Deloitte
+- Data Analyst Intern @ Deloitte
 
 To know more about me and my projects, check out my website!
 
