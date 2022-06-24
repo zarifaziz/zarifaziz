@@ -18,7 +18,7 @@ ______
 
 To know more about me and my projects, please check out my website!
 
-📫 [zarifaziz.io](zarifaziz.io)
+📫 [zarifaziz.io](https://zarifaziz.io/)
 
 
 
