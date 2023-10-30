@@ -1,4 +1,4 @@
-#### Data Scientist | Software Engineer
+#### AI / Machine Learning Engineer
 ______
 
 ##### I love building AI-enabled software solutions for a wide range of problems.
