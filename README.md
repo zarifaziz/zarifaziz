@@ -1,9 +1,6 @@
 #### AI / Machine Learning Engineer
-______
 
-##### I love building AI-enabled software solutions for a wide range of problems.
-
-I'm currently working at [Faethm.ai](https://www.faethm.ai/) where we're building a system to show real-time skill demands for any job.
+I love building AI-enabled software solutions for a wide range of problems.
 
 ______
 
